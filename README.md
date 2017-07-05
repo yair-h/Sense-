@@ -1,4 +1,4 @@
-# Sense
+# Sense!
 
-# API
+### API
 Here we can write the commuinication protocol
